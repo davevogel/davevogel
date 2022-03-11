@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davevogel
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning html/css
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
